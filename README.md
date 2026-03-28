@@ -1,6 +1,6 @@
 # Cowrie SSH Honeypot — Attack Analysis Dashboard
 
-> A real-world cybersecurity project: an SSH honeypot deployed on AWS EC2 that captured **10 days of live attack data**, analyzed with a custom-built interactive dashboard.
+> Live Attack Analysis: **10 Days of SSH Honeypot Data on AWS**
 
 
 
